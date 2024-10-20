@@ -8,7 +8,6 @@ import os
 import sys
 import os.path as osp
 import cv2
-import torch
 import numpy as np
 import onnxruntime as ort
 from math import exp
